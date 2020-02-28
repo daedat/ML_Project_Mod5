@@ -1,5 +1,5 @@
 # ML_Project_Mod5
-## Predicting Employee Churn 
+## Predicting Employee Churn https://docs.google.com/presentation/d/1x0Ao48tx9WpliaayPLt5avA41zdFaTJDHIYxrjn9_AQ/edit?usp=sharing
 
 ### Why: 
 The key to any organization's success is attracting and retaining the best people. One of the goals of HR analysts is to prevent personnel from leaving, or churn. 
